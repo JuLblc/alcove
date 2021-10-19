@@ -41,7 +41,7 @@ You can use these credentials to log in:
 - Login:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;donkey@kong.com
 - Password:&nbsp;&nbsp;&nbsp;&nbsp;Password1234
 
-Enjoy your training!!
+Enjoy your shopping!!
 
 ## Contributors:
 
