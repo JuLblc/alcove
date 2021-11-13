@@ -137,6 +137,7 @@ authRoutes.get('/verify/:token', (req, res, next) => {
 authRoutes.post('/sessions', (req, res, next) => {
 
   passport.authenticate('local', (err, theUser, failureDetails) => {
+    console.log('user:',theUser)
     if (err) {
       // Something went wrong authenticating user
       res.status(400).json({ message: err });
