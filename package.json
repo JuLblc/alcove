@@ -14,7 +14,6 @@
     "build": "cd alcove-react && npm install && npm run build"
   },
   "dependencies": {
-    "axios": "^0.21.4",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.1",
     "cloudinary": "^1.33.0",
@@ -24,23 +23,13 @@
     "dotenv": "^6.0.0",
     "express": "^4.18.2",
     "express-session": "^1.17.3",
-    "flickity": "^2.3.0",
-    "hbs": "^4.2.0",
     "mongoose": "^5.13.15",
     "morgan": "^1.9.0",
     "multer": "^1.4.4",
     "multer-storage-cloudinary": "^4.0.0",
-    "node-sass": "^4.14.1",
-    "node-sass-middleware": "^0.11.0",
     "nodemailer": "^6.8.0",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
-    "react-external-link": "^1.3.0",
-    "react-flickity-component": "^3.6.3",
-    "react-responsive": "^9.0.2",
-    "react-responsive-carousel": "^3.2.23",
-    "react-router-dom": "^5.3.4",
-    "react-router-hash-link": "^2.4.3",
     "serve-favicon": "^2.5.0"
   },
   "devDependencies": {
