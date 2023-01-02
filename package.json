@@ -7,10 +7,10 @@
     "npm": "6.14.15"
   },
   "scripts": {
-    "start": "node ./bin/www",
-    "maildev": "maildev ./bin/www",
-    "dev": "DEBUG=lalcove:* nodemon ./bin/www",
-    "dev-windows": "nodemon ./bin/www",
+    "start": "node ./api/bin/www",
+    "maildev": "maildev ./api/bin/www",
+    "dev": "DEBUG=lalcove:* nodemon ./api/bin/www",
+    "dev-windows": "nodemon ./api/bin/www",
     "build": "cd alcove-react && npm install && npm run build"
   },
   "dependencies": {
