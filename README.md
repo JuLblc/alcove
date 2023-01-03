@@ -34,7 +34,7 @@ As it is part of "L'Alcôve's" business strategy, we took the challenge to creat
 
 ## Give it a try:
 
-Please follow this link: https://my-alcove.herokuapp.com/ or watch the <a href="https://youtu.be/CDsYxdUdZog">demo</a>
+Please follow this link: https://my-alcove.onrender.com/ or watch the <a href="https://youtu.be/CDsYxdUdZog">demo</a>
 
 You can use these credentials to log in:
 
